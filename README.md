@@ -20,5 +20,5 @@ You can also find [here](https://github.com/prashnts) the github of our collabor
 <br/> Author : Peter Polidoro
 
 ### Collaborators
-> Kevin Lhoste 
-<br/> Makerlab CRI 
+> [Kevin Lhoste] (https://github.com/kevinlhoste)
+<br/> [Makerlab CRI] (https://github.com/MakerLabCRI)
