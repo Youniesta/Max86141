@@ -1,10 +1,9 @@
-WORKING IN PROGRESS ! 
 The example provided is set up on NRF52840 board.    
 You can find an example running on an ESP32 on VSPI [here](https://github.com/moothyknight/MAX86141_Arduino).
 You can also find [here](https://github.com/prashnts) the github of our collaborator Prashant Sinha who shared with us informations about the Max86140/Max86141, the NRF52 and ESP32.  
 
 # Max86141
->Arduino codes and docs for using Max86140/Max86141 sensors   
+>Available on IDE Arduino : `Tools`->`Libraries Manager`-> enter `Max86141` **version 1.0.4** by Youssouph Ndao and install it.  
 <br/>The Select Slave Pin SS_Pin is **A5**
 
 # Datasheet
